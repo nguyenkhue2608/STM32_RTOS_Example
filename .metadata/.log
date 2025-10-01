@@ -1,0 +1,43 @@
+!SESSION 2025-10-01 17:30:15.184 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\10_Libraly\STM32_RTOS\STM32_RTOS_CreateAndScheduleTask\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\10_Libraly\STM32_RTOS\STM32_RTOS_CreateAndScheduleTask\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-01 17:30:44.298
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-01 17:30:44.299
+!MESSAGE Log4j2 initialized with config file D:\10_Libraly\STM32_RTOS\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-01 17:30:47.276
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:30:52.976
+!MESSAGE Indexed 'STM32_RTOS_CreateAndScheduleTask' (32 sources, 135 headers) in 4.25 sec: 12,445 declarations; 58,848 references; 9 unresolved inclusions; 880 syntax errors; 1,171 unresolved names (1.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:49:17.740
+!MESSAGE Indexed 'STM32_TaskStates' (31 sources, 135 headers) in 1.83 sec: 11,746 declarations; 54,496 references; 2 unresolved inclusions; 145 syntax errors; 189 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:50:41.051
+!MESSAGE Indexed 'STM32_RTOS_Queue' (32 sources, 137 headers) in 1.71 sec: 12,520 declarations; 60,710 references; 2 unresolved inclusions; 145 syntax errors; 189 unresolved names (0.26%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:53:24.396
+!MESSAGE Indexed 'STM32_RTOS_TaskStates' (32 sources, 135 headers) in 1.75 sec: 12,445 declarations; 58,848 references; 9 unresolved inclusions; 880 syntax errors; 1,171 unresolved names (1.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:57:14.399
+!MESSAGE Indexed 'STM32_RTOS_Semaphore' (32 sources, 137 headers) in 1.71 sec: 12,520 declarations; 60,710 references; 2 unresolved inclusions; 145 syntax errors; 189 unresolved names (0.26%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:58:10.364
+!MESSAGE Indexed 'STM32_RTOS_Mutex' (31 sources, 133 headers) in 1.65 sec: 11,635 declarations; 52,835 references; 9 unresolved inclusions; 740 syntax errors; 1,070 unresolved names (1.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 17:59:34.929
+!MESSAGE Indexed 'STM32_RTOS_EventGroup' (31 sources, 133 headers) in 1.61 sec: 11,635 declarations; 52,835 references; 9 unresolved inclusions; 740 syntax errors; 1,070 unresolved names (1.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 18:00:45.939
+!MESSAGE Indexed 'STM32_RTOS_SoftwareTimer' (31 sources, 135 headers) in 1.52 sec: 11,728 declarations; 54,476 references; 2 unresolved inclusions; 145 syntax errors; 189 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-01 18:03:27.738
+!MESSAGE Indexed 'STM32_RTOS_TaskNotifycation' (31 sources, 133 headers) in 1.68 sec: 11,635 declarations; 52,835 references; 9 unresolved inclusions; 740 syntax errors; 1,070 unresolved names (1.6%)
